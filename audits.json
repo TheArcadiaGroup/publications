@@ -1,0 +1,237 @@
+[
+  {
+    "companyName": "PoolZ",
+    "description": "Audit of PoolZ",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PoolzAudit.pdf",
+    "subAuditReports": [
+      {
+        "companyName": "PoolZ",
+        "description": "Audit of PoolZ v2",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/poolzv2audit.pdf"
+      },
+      {
+        "companyName": "PoolZ",
+        "description": "Audit of PoolZ Multisig",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Poolz%20Multisig%20Audit.pdf"
+      },
+      {
+        "companyName": "PoolZ",
+        "description": "Audit of PoolZ Locked Deal Contracts",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PoolZLockedDeal.pdf"
+      },
+      {
+        "companyName": "PoolZ",
+        "description": "Audit of Modified PoolZ Locked Deal Contracts",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/New%20Poolz%20Delay%20Vault%20Audit.pdf"
+      }
+    ]
+  },
+  {
+    "companyName": "OpenQ",
+    "description": "Audit of OpenQ Bounty Platform Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/OpenQ.pdf"
+  },
+  {
+    "companyName": "FXDX",
+    "description": "Audit of FXDX Codebase",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FXDX%20Final.pdf"
+  },
+  {
+    "companyName": "Immunefi",
+    "description": "Immunefi Protocol Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Immunefi.pdf"
+  },
+  {
+    "companyName": "Hourglass Foundation",
+    "description": "Audit of Hourglass Platform Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Hourglass%20Audit.pdf"
+  },
+  {
+    "companyName": "RampDefi",
+    "description": "RampVault and rUSD Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/RAMPDEFI.pdf"
+  },
+  {
+    "companyName": "Falcon Finance",
+    "description": "Audit of Falcon Finance Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FalconFinanceAudit.pdf"
+  },
+  {
+    "companyName": "Veme",
+    "description": "Audit of Veme Genesis Token and DAO Contract",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/VEME.pdf"
+  },
+  {
+    "companyName": "PureFi",
+    "description": "PureFi Farming Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PureFiFarm.pdf"
+  },
+  {
+    "companyName": "Friendly Market",
+    "description": "Friendly Market AMM Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FriendlyAMMOLD.pdf"
+  },
+  {
+    "companyName": "Herdius",
+    "description": "Herdius DEX Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Herdius.pdf"
+  },
+  {
+    "companyName": "PolkaInsure",
+    "description": "PolkaInsure Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PolkaInsureAudit.pdf"
+  },
+  {
+    "companyName": "MoonFarm",
+    "description": "MoonFarm Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/MoonFarm.pdf"
+  },
+  {
+    "companyName": "Rivex",
+    "description": "UTRX Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/UTRX.pdf"
+  },
+  {
+    "companyName": "YF Value",
+    "description": "Engagements with YF Value",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/YFV_Protocol_Audit_Summary.pdf",
+    "subAuditReports": [
+      {
+        "companyName": "YF Value",
+        "description": "Audit of YFV Staking Pool",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/YFV_Staking_Pool_v2_-_Audit_Summary.pdf"
+      },
+      {
+        "companyName": "YF Value",
+        "description": "YFValue Vaults",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Arcadia_Vault_AuditPublic.pdf"
+      }
+    ]
+  },
+  {
+    "companyName": "LuaSwap",
+    "description": "Audit of LuaSwap Core Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Audit_of_LUASWAP_Contracts.pdf"
+  },
+  {
+    "companyName": "cVault Finance",
+    "description": "cVault.Finance Engagements",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/CoreFinal.pdf",
+    "subAuditReports": [
+      {
+        "companyName": "cVault Finance",
+        "description": "Audit of ERC-95",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/ERC95.pdf"
+      },
+      {
+        "companyName": "cVault Finance",
+        "description": "Delta Financial Code Review Engagement",
+        "url": ""
+      },
+      {
+        "companyName": "cVault Finance",
+        "description": "Audit of cLend Contracts",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/clend.pdf"
+      }
+    ]
+  },
+  {
+    "companyName": "Dotoracle",
+    "description": "",
+    "url": ""
+  },
+  {
+    "companyName": "Falcon Finance",
+    "description": "Audit of Falcon Finance Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FalconFinanceAudit.pdf"
+  },
+  {
+    "companyName": "Value DeFi",
+    "description": "Audit of Faas Pool Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FaaSPool.pdf",
+    "subAuditReports": [
+      {
+        "companyName": "Value DeFi",
+        "description": "Audit of Value Governance Vault V2",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/ValueGov2Audit.pdf"
+      },
+      {
+        "companyName": "Value DeFi",
+        "description": "Audit of Value Token Contract",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Value_Token_Contract_Audit.pdf"
+      }
+    ]
+  },
+  {
+    "companyName": "Cover Protocol",
+    "description": "Audit of Cover Protocol",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/CoverAudit.pdf"
+  },
+  {
+    "companyName": "DuckDAO",
+    "description": "Audit of DuckDAO",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/DuckDao.pdf"
+  },
+  {
+    "companyName": "Ferrum Protocol",
+    "description": "Audit of Ferrum ERC-20",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FerrumERC20.pdf"
+  },
+  {
+    "companyName": "MyCryptoPlay",
+    "description": "Audit of MCP ERC-20",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/MCPERC20.pdf"
+  },
+  {
+    "companyName": "N3RD Vault",
+    "description": "Audit of N3RDVault",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/N3rdNerdVault.pdf"
+  },
+  {
+    "companyName": "Vox Finance",
+    "description": "Audit of VOX Finance",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/VOXv1.pdf",
+    "subAuditReports": [
+      {
+        "companyName": "Vox Finance",
+        "description": "Audit of Vox Finance Vaults",
+        "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Vox2.pdf"
+      }
+    ]
+  },
+  {
+    "companyName": "Evolution Finance",
+    "description": "Audit of Evolution Finance",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Evolution.pdf"
+  },
+  {
+    "companyName": "BDP",
+    "description": "BDP Finance Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/BDP.pdf"
+  },
+  {
+    "companyName": "ProPane",
+    "description": "ERC20 Token",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/ProPane.pdf"
+  },
+  {
+    "companyName": "Charged Particles",
+    "description": "Audit of Core Contracts (V1)",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Charged.pdf"
+  },
+  {
+    "companyName": "HappyLand",
+    "description": "Custom* ERC20 Token",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/HPLToken.pdf"
+  },
+  {
+    "companyName": "Rinu Inu",
+    "description": "ERC20 Token for a Launchpad Project",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/rinu.pdf"
+  },
+  {
+    "companyName": "Hubble Market",
+    "description": "Review of Lending and Borrowing Protocol",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Hubble.pdf"
+  }
+]
