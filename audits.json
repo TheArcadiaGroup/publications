@@ -27,6 +27,11 @@
     ]
   },
   {
+    "companyName": "Six Network",
+    "description": "Audit of Six Network",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/SIX-1.pdf"
+  },
+  {
     "companyName": "OpenQ",
     "description": "Audit of OpenQ Bounty Platform Contracts",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/OpenQ.pdf"
