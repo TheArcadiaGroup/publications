@@ -1,5 +1,10 @@
 [
   {
+    "companyName": "XEN Game",
+    "description": "Audit of Xen Game",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/XenGame.pdf"
+  },
+  {
     "companyName": "PoolZ",
     "description": "Audit of PoolZ",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PoolzAudit.pdf",
