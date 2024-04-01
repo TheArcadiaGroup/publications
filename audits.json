@@ -1,5 +1,10 @@
 [
   {
+    "companyName": "Gemach DAO",
+    "description": "Audit of Gemach Deployer",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FINAL%20Gemach%20Audit%20Report.pdf"
+  },
+  {
     "companyName": "XEN Game",
     "description": "Audit of Xen Game",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/XenGame.pdf"
