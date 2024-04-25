@@ -1,5 +1,10 @@
 [
   {
+    "companyName": "NXD Protocol",
+    "description": "Audit of NXD Protocol",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/NXDFinal.pdf"
+  },
+  {
     "companyName": "Gemach DAO",
     "description": "Audit of Gemach Deployer",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/FINAL%20Gemach%20Audit%20Report.pdf"
