@@ -1,5 +1,10 @@
 [
   {
+    "companyName": "Hourglass Foundation",
+    "description": "Hourglass Locking Audit 1",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/HourglassAudit3.pdf"
+  },
+  {
     "companyName": "NXD Protocol",
     "description": "Audit of NXD Protocol",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/NXDFinal.pdf"
