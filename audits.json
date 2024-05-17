@@ -1,4 +1,9 @@
 [
+   {
+    "companyName": "NXD Protocol",
+    "description": "Audit of NXD LP Gateway",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/NXD%20LPGateway%20Protocol%20Audit%20.pdf"
+  },
   {
     "companyName": "Hourglass Foundation",
     "description": "Hourglass Locking Audit 1",
@@ -55,6 +60,11 @@
     "companyName": "OpenQ",
     "description": "Audit of OpenQ Bounty Platform Contracts",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/OpenQ.pdf"
+  },
+  {
+    "companyName": "Hubble Market",
+    "description": "Review of Lending and Borrowing Protocol",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Hubble.pdf"
   },
   {
     "companyName": "FXDX",
@@ -253,10 +263,5 @@
     "companyName": "Rinu Inu",
     "description": "ERC20 Token for a Launchpad Project",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/rinu.pdf"
-  },
-  {
-    "companyName": "Hubble Market",
-    "description": "Review of Lending and Borrowing Protocol",
-    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Hubble.pdf"
   }
 ]
