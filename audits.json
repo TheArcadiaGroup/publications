@@ -1,5 +1,10 @@
 [
    {
+    "companyName": "PoolZ",
+    "description": "Audit of LockDealNFT.Builders + NFTTokenNFTConnector",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/PoolZLockDealTokenNFTConnector.pdf"
+  },
+   {
     "companyName": "NXD Protocol",
     "description": "Audit of NXD LP Gateway",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/NXD%20LPGateway%20Protocol%20Audit%20.pdf"
