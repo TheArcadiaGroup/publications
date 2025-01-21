@@ -1,4 +1,14 @@
 [
+    {
+    "companyName": "Hourglass Foundation",
+    "description": "Audit of Hourglass Euler Oracle",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Hourglass%20Euler.pdf"
+  },
+   {
+    "companyName": "PoolZ",
+    "description": "Audit of LockDealNFT Dispenser Provider",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Poolz%20Audit%20Dispenser%20Provider.pdf"
+  },
    {
     "companyName": "PoolZ",
     "description": "Audit of LockDealNFT.Builders + NFTTokenNFTConnector",
