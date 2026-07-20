@@ -1,5 +1,10 @@
 [
      {
+    "companyName": "Liberdus",
+    "description": "Liberdus Token and Bridge Token Contracts",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/liberdus.pdf"
+    },
+     {
     "companyName": "Panther Protocol",
     "description": "Panther Protocol Infrastructure Security Review",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Panther_Audit.pdf"
