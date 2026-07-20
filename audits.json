@@ -1,5 +1,10 @@
 [
      {
+    "companyName": "Panther Protocol",
+    "description": "Panther Protocol Infrastructure Security Review",
+    "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/Panther_Audit.pdf"
+    },
+     {
     "companyName": "Stroom Network",
     "description": "Audit of Stroom Network",
     "url": "https://github.com/TheArcadiaGroup/publications/blob/main/audits/stroom-audit-final.pdf"
